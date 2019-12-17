@@ -84,6 +84,7 @@ public class AroundMethod {
             System.out.println(method);
             System.out.println(annotation);
             System.out.println("3");
+            System.out.println("43");
         }
     }
 }
